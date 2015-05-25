@@ -45,7 +45,7 @@ food creat_food();
 snake init_snake();
 void destory_snake(snake S);
 snakenode newsnakenode();
-snakenode GetSnakeTail(snake s);:w
+snakenode GetSnakeTail(snake s);
 void draw_snake(snake s);
 void move_snake(snake s);
 void draw_food(food Tfood,snake Tsnake);
